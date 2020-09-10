@@ -1,1 +1,1 @@
-web: yarn tsnd src/server.ts
+web: yarn start
