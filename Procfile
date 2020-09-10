@@ -1,2 +1,1 @@
-migrations: yarn knex:migrate
-web: yarn start
+web: yarn ts-node src/server.ts
