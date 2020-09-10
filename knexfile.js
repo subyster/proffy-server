@@ -1,4 +1,4 @@
-import path from 'path';
+const path = requre('path');
 
 module.exports = {
   client: 'sqlite3',
